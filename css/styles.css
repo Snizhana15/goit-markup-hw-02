@@ -110,6 +110,9 @@ line-height: 1.18;
 .logo-light {
     color: #FFFFFF;
 }
+.address{
+font-style: normal;
+}
 .footer-address {
 font-size: 14px;
 line-height: 1.71;
@@ -125,6 +128,7 @@ line-height: 1.71;
 color: rgba(255, 255, 255, 0.6);
 }
 .filter-btn {
+font-family: inherit;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.62;
